@@ -1,7 +1,7 @@
-
+<!-- Premium GitHub Profile README for Sakib Hasan -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96311790/260500976-2a2d1e0d-3f92-48d4-a091-2a215ae4a7af.png" alt="Sakib Hasan Banner" width="100%" />
+  <img src="https://i.ibb.co/5gwMQCKL/github-profile-banner.png" alt="Sakib Hasan Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0ea5e9;">Sakib Hasan</span></h1>
