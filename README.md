@@ -1,8 +1,6 @@
 <!-- Premium GitHub Profile README for Sakib Hasan -->
 
-<p align="center">
-  <img src="https://i.ibb.co/5gwMQCKL/github-profile-banner.png" alt="Sakib Hasan Banner" width="40%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0ea5e9;">Sakib Hasan</span></h1>
 <h3 align="center">💻 Passionate Full Stack Developer & Lifelong Learner from Bangladesh 🇧🇩</h3>
